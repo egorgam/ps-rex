@@ -3,7 +3,7 @@
 This script can help you to find all text-based and MS Office files, and apply regex to them
 
 *syntax:*
-powershell script.ps1 <regex> <ip address of data collector> <port>
+powershell script.ps1 "regex" "ip address of data collector" "port"
 
 Supported formats:
 .txt
